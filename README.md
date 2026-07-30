@@ -31,11 +31,28 @@
 
 ---
 
+
 ### 📊 Estatísticas no GitHub
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-lpedro/dev-lpedro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-lpedro/dev-lpedro/output/github-contribution-grid-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/dev-lpedro/dev-lpedro/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-lpedro&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lpedro&layout=compact&theme=tokyonight&locale=pt-br" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-lpedro&show_icons=true&theme=dark&locale=pt-br">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-lpedro&show_icons=true&theme=light&locale=pt-br">
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-lpedro&show_icons=true&theme=github_dark&locale=pt-br" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-lpedro&layout=compact&theme=dark&locale=pt-br">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-lpedro&layout=compact&theme=light&locale=pt-br">
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-lpedro&layout=compact&theme=github_dark&locale=pt-br" />
+  </picture>
 </p>
 
 ---
